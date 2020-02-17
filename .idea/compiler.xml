@@ -84,8 +84,16 @@
       <module name="Problems__36_-Check_burgs_test" target="11" />
       <module name="Problems__37_-Extracting_a_substring_main" target="11" />
       <module name="Problems__37_-Extracting_a_substring_test" target="11" />
+      <module name="Problems__38_-Check_the_value_main" target="11" />
+      <module name="Problems__38_-Check_the_value_test" target="11" />
+      <module name="Problems__39_-Boys_in_a_sport_class_main" target="11" />
+      <module name="Problems__39_-Boys_in_a_sport_class_test" target="11" />
       <module name="Problems__3_-Fill_the_declaration_main" target="11" />
       <module name="Problems__3_-Fill_the_declaration_test" target="11" />
+      <module name="Problems__40_-Exactly_one_parameter_is_positive_main" target="11" />
+      <module name="Problems__40_-Exactly_one_parameter_is_positive_test" target="11" />
+      <module name="Problems__41_-Check_the_given_numbers_are_different_main" target="11" />
+      <module name="Problems__41_-Check_the_given_numbers_are_different_test" target="11" />
       <module name="Problems__4_-Assignments_main" target="11" />
       <module name="Problems__4_-Assignments_test" target="11" />
       <module name="Problems__5_-Uncomment_a_line_main" target="11" />
