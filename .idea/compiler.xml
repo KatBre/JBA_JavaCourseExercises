@@ -76,6 +76,14 @@
       <module name="Problems__32_-Check_prefix_ignoring_the_case_test" target="11" />
       <module name="Problems__33_-Comparing_strings_ignoring_whitespaces_main" target="11" />
       <module name="Problems__33_-Comparing_strings_ignoring_whitespaces_test" target="11" />
+      <module name="Problems__34_-Extracting_a_substring_main" target="11" />
+      <module name="Problems__34_-Extracting_a_substring_test" target="11" />
+      <module name="Problems__35_-Extracting_a_substring_main" target="11" />
+      <module name="Problems__35_-Extracting_a_substring_test" target="11" />
+      <module name="Problems__36_-Check_burgs_main" target="11" />
+      <module name="Problems__36_-Check_burgs_test" target="11" />
+      <module name="Problems__37_-Extracting_a_substring_main" target="11" />
+      <module name="Problems__37_-Extracting_a_substring_test" target="11" />
       <module name="Problems__3_-Fill_the_declaration_main" target="11" />
       <module name="Problems__3_-Fill_the_declaration_test" target="11" />
       <module name="Problems__4_-Assignments_main" target="11" />
