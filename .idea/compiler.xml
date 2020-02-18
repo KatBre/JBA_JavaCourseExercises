@@ -94,6 +94,18 @@
       <module name="Problems__40_-Exactly_one_parameter_is_positive_test" target="11" />
       <module name="Problems__41_-Check_the_given_numbers_are_different_main" target="11" />
       <module name="Problems__41_-Check_the_given_numbers_are_different_test" target="11" />
+      <module name="Problems__42_-Check_the_value_main" target="11" />
+      <module name="Problems__42_-Check_the_value_test" target="11" />
+      <module name="Problems__43_-Is_between_main" target="11" />
+      <module name="Problems__43_-Is_between_test" target="11" />
+      <module name="Problems__44_-Is_between_main" target="11" />
+      <module name="Problems__44_-Is_between_test" target="11" />
+      <module name="Problems__45_-Exactly_one_parameter_is_positive_main" target="11" />
+      <module name="Problems__45_-Exactly_one_parameter_is_positive_test" target="11" />
+      <module name="Problems__46_-Check_the_sum_main" target="11" />
+      <module name="Problems__46_-Check_the_sum_test" target="11" />
+      <module name="Problems__47_-Exactly_one_parameter_is_positive_main" target="11" />
+      <module name="Problems__47_-Exactly_one_parameter_is_positive_test" target="11" />
       <module name="Problems__4_-Assignments_main" target="11" />
       <module name="Problems__4_-Assignments_test" target="11" />
       <module name="Problems__5_-Uncomment_a_line_main" target="11" />
