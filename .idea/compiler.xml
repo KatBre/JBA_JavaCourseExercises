@@ -106,6 +106,8 @@
       <module name="Problems__46_-Check_the_sum_test" target="11" />
       <module name="Problems__47_-Exactly_one_parameter_is_positive_main" target="11" />
       <module name="Problems__47_-Exactly_one_parameter_is_positive_test" target="11" />
+      <module name="Problems__48_-Groundhogs_at_a_party_main" target="11" />
+      <module name="Problems__48_-Groundhogs_at_a_party_test" target="11" />
       <module name="Problems__4_-Assignments_main" target="11" />
       <module name="Problems__4_-Assignments_test" target="11" />
       <module name="Problems__5_-Uncomment_a_line_main" target="11" />
