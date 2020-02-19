@@ -108,8 +108,14 @@
       <module name="Problems__47_-Exactly_one_parameter_is_positive_test" target="11" />
       <module name="Problems__48_-Groundhogs_at_a_party_main" target="11" />
       <module name="Problems__48_-Groundhogs_at_a_party_test" target="11" />
+      <module name="Problems__49_-Healthy_sleep_main" target="11" />
+      <module name="Problems__49_-Healthy_sleep_test" target="11" />
       <module name="Problems__4_-Assignments_main" target="11" />
       <module name="Problems__4_-Assignments_test" target="11" />
+      <module name="Problems__50_-The_army_of_units_main" target="11" />
+      <module name="Problems__50_-The_army_of_units_test" target="11" />
+      <module name="Problems__51_-Chocolate_main" target="11" />
+      <module name="Problems__51_-Chocolate_test" target="11" />
       <module name="Problems__5_-Uncomment_a_line_main" target="11" />
       <module name="Problems__5_-Uncomment_a_line_test" target="11" />
       <module name="Problems__6_-Javadoc_comment_main" target="11" />
