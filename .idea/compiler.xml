@@ -124,6 +124,10 @@
       <module name="Problems__54_-Symmetrical_number_test" target="11" />
       <module name="Problems__55_-Symmetrical_number_main" target="11" />
       <module name="Problems__55_-Symmetrical_number_test" target="11" />
+      <module name="Problems__56_-Check_a_number_is_positive_main" target="11" />
+      <module name="Problems__56_-Check_a_number_is_positive_test" target="11" />
+      <module name="Problems__57_-Triangle_main" target="11" />
+      <module name="Problems__57_-Triangle_test" target="11" />
       <module name="Problems__5_-Uncomment_a_line_main" target="11" />
       <module name="Problems__5_-Uncomment_a_line_test" target="11" />
       <module name="Problems__6_-Javadoc_comment_main" target="11" />
