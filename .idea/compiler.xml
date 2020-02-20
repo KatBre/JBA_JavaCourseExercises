@@ -116,6 +116,14 @@
       <module name="Problems__50_-The_army_of_units_test" target="11" />
       <module name="Problems__51_-Chocolate_main" target="11" />
       <module name="Problems__51_-Chocolate_test" target="11" />
+      <module name="Problems__52_-Chocolate_main" target="11" />
+      <module name="Problems__52_-Chocolate_test" target="11" />
+      <module name="Problems__53_-Symmetrical_number_main" target="11" />
+      <module name="Problems__53_-Symmetrical_number_test" target="11" />
+      <module name="Problems__54_-Symmetrical_number_main" target="11" />
+      <module name="Problems__54_-Symmetrical_number_test" target="11" />
+      <module name="Problems__55_-Symmetrical_number_main" target="11" />
+      <module name="Problems__55_-Symmetrical_number_test" target="11" />
       <module name="Problems__5_-Uncomment_a_line_main" target="11" />
       <module name="Problems__5_-Uncomment_a_line_test" target="11" />
       <module name="Problems__6_-Javadoc_comment_main" target="11" />
