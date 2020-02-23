@@ -2,30 +2,51 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a6b37651-1347-4796-9e75-ffc93aa32056" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Chocolate/Problems-Chocolate.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Chocolate/Problems-Chocolate_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Chocolate/Problems-Chocolate_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Healthy sleep/Problems-Healthy_sleep.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Healthy sleep/Problems-Healthy_sleep_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Healthy sleep/Problems-Healthy_sleep_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Leap year/Problems-Leap_year.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Leap year/Problems-Leap_year_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Leap year/Problems-Leap_year_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Queens/Problems-Queens.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Queens/Problems-Queens_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Queens/Problems-Queens_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/The army of units/Problems-The_army_of_units.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/The army of units/Problems-The_army_of_units_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/The army of units/Problems-The_army_of_units_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/The sum of integers from a to b/Problems-The_sum_of_integers_from_a_to_b.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/The sum of integers from a to b/Problems-The_sum_of_integers_from_a_to_b_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/The sum of integers from a to b/Problems-The_sum_of_integers_from_a_to_b_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Chocolate/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Chocolate/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Queens/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Queens/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/The sum of integers from a to b/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/The sum of integers from a to b/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Arithmetic average/Problems-Arithmetic_average.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Arithmetic average/Problems-Arithmetic_average_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Arithmetic average/Problems-Arithmetic_average_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Fizz Buzz/Problems-Fizz_Buzz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Fizz Buzz/Problems-Fizz_Buzz_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Fizz Buzz/Problems-Fizz_Buzz_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Grades/Problems-Grades.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Grades/Problems-Grades_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Grades/Problems-Grades_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Maximum element divisible by 4/Problems-Maximum_element_divisible_by_4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Maximum element divisible by 4/Problems-Maximum_element_divisible_by_4_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Maximum element divisible by 4/Problems-Maximum_element_divisible_by_4_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Size of parts/Problems-Size_of_parts.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Size of parts/Problems-Size_of_parts_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Size of parts/Problems-Size_of_parts_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Sum of numbers divisible by 6/Problems-Sum_of_numbers_divisible_by_6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Sum of numbers divisible by 6/Problems-Sum_of_numbers_divisible_by_6_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Sum of numbers divisible by 6/Problems-Sum_of_numbers_divisible_by_6_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/The count of numbers divisible by N/Problems-The_count_of_numbers_divisible_by_N.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/The count of numbers divisible by N/Problems-The_count_of_numbers_divisible_by_N_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/The count of numbers divisible by N/Problems-The_count_of_numbers_divisible_by_N_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/The product of numbers from a to b/Problems-The_product_of_numbers_from_a_to_b.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/The product of numbers from a to b/Problems-The_product_of_numbers_from_a_to_b_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/The product of numbers from a to b/Problems-The_product_of_numbers_from_a_to_b_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/The roots of an equation/Problems-The_roots_of_an_equation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/The roots of an equation/Problems-The_roots_of_an_equation_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/The roots of an equation/Problems-The_roots_of_an_equation_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Arithmetic average/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Arithmetic average/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Fizz Buzz/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Fizz Buzz/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Grades/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Grades/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Maximum element divisible by 4/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Maximum element divisible by 4/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Size of parts/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Size of parts/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Sum of numbers divisible by 6/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Sum of numbers divisible by 6/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/The count of numbers divisible by N/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/The count of numbers divisible by N/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/The product of numbers from a to b/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/The product of numbers from a to b/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/The roots of an equation/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/The roots of an equation/task.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.bin" afterDir="false" />
@@ -36,15 +57,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple Chatty Bot/Hello! What’s your name/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Chatty Bot/Hello! What’s your name/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple Chatty Bot/task/build/classes/java/main/bot/SimpleBot.class" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Chatty Bot/task/build/classes/java/main/bot/SimpleBot.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple Chatty Bot/task/build/classes/java/test/PersonalAssistantTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Chatty Bot/task/build/classes/java/test/PersonalAssistantTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple Chatty Bot/task/build/reports/tests/test/classes/PersonalAssistantTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Chatty Bot/task/build/reports/tests/test/classes/PersonalAssistantTest.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple Chatty Bot/task/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Chatty Bot/task/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple Chatty Bot/task/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Chatty Bot/task/build/reports/tests/test/packages/default-package.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple Chatty Bot/task/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Chatty Bot/task/build/test-results/test/binary/output.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple Chatty Bot/task/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Chatty Bot/task/build/test-results/test/binary/output.bin.idx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple Chatty Bot/task/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Chatty Bot/task/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Chatty Bot/How old are you/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Chatty Bot/How old are you/task-info.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +92,7 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Testing" />
     <property name="show.inlinked.gradle.project.popup" value="false" />
   </component>
   <component name="ServiceViewManager">
@@ -126,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582381088905</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="next exercises added">
+      <created>1582383625353</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1582383625353</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -153,21 +173,21 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="928" y="169" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1582371885982" />
-    <state x="639" y="107" key="CommitChangelistDialog2" timestamp="1582381088314">
+    <state x="639" y="107" key="CommitChangelistDialog2" timestamp="1582383624846">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="639" y="107" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1582381088314" />
-    <state x="1116" y="252" key="FileChooserDialogImpl" timestamp="1582371738492">
+    <state x="639" y="107" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1582383624846" />
+    <state x="1116" y="252" key="FileChooserDialogImpl" timestamp="1582445902629">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1116" y="252" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1582371738492" />
+    <state x="1116" y="252" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1582445902629" />
     <state x="916" y="253" key="IDE.errors.dialog" timestamp="1582374487973">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="916" y="253" key="IDE.errors.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582374487973" />
-    <state x="928" y="243" key="Vcs.Push.Dialog.v2" timestamp="1582381096598">
+    <state x="928" y="243" key="Vcs.Push.Dialog.v2" timestamp="1582383746979">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="928" y="243" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1582381096598" />
+    <state x="928" y="243" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1582383746979" />
   </component>
 </project>
