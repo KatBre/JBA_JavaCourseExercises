@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="PersonalAssistantTest" tests="1" skipped="0" failures="1" errors="0" timestamp="2020-02-22T13:03:09" hostname="Kasia-Komputer" time="0.117">
+<testsuite name="PersonalAssistantTest" tests="1" skipped="0" failures="1" errors="0" timestamp="2020-02-25T11:23:37" hostname="Kasia-Komputer" time="0.093">
   <properties/>
-  <testcase name="start" classname="PersonalAssistantTest" time="0.117">
+  <testcase name="start" classname="PersonalAssistantTest" time="0.093">
     <failure message="java.lang.AssertionError: Wrong answer in test #1&#10;&#10;You should output 20 lines (for the count number 10).&#10;Lines found: 2&#10;Your output:&#10;Hello! My name is Anna.&#10;I was created in 2020.&#10;&#10;Please find below the output of your program during this failed test.&#10;&#10;---&#10;&#10;Hello! My name is Anna.&#10;I was created in 2020." type="java.lang.AssertionError">java.lang.AssertionError: Wrong answer in test #1
 
 You should output 20 lines (for the count number 10).
