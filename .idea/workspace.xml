@@ -2,293 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e77f787b-3b04-407f-9f62-3d55f5efa303" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Problems/Arithmetic average/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Arithmetic average/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Arithmetic average/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Arithmetic average/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Arithmetic expression/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Arithmetic expression/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Assignments/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Assignments/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Boys in a sport class/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Boys in a sport class/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Check a number is positive/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Check a number is positive/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Check burgs/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Check burgs/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Check prefix ignoring the case/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Check prefix ignoring the case/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Check the given numbers are different/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Check the given numbers are different/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Check the sum/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Check the sum/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Check the value/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Check the value/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Chocolate/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Chocolate/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Collatz conjecture/out/production/classes/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Collatz conjecture/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Collatz conjecture/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Comparing strings ignoring whitespaces/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Comparing strings ignoring whitespaces/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Decrement all/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Decrement all/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Desks/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Desks/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Difference of times/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Difference of times/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Exactly one parameter is positive/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Exactly one parameter is positive/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Extracting a substring/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Extracting a substring/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Fill the declaration/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Fill the declaration/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/First digit/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/First digit/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Fizz Buzz/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Fizz Buzz/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Fizz Buzz/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Fizz Buzz/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Good rest on vacation/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Good rest on vacation/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Good rest on vacation/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Grades/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Grades/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Grades/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Grades/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Groundhogs at a party/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Groundhogs at a party/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Healthy sleep/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Healthy sleep/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Healthy sleep/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Hello, Java platform/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Hello, Java platform/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/How many nuts each squirrel will get/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/How many nuts each squirrel will get/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Incorrect comments - 2/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Incorrect comments - 2/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Incorrect comments/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Incorrect comments/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Interval/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Interval/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Invalid declaration of variables/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Is between/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Is between/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Javadoc comment/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Javadoc comment/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Leap year/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Leap year/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Leap year/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Maximum element divisible by 4/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Maximum element divisible by 4/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Maximum element divisible by 4/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Maximum element divisible by 4/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Next even number/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Next even number/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Print strings in the reverse order/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Print strings in the reverse order/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Printing each word in a new line/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Printing each word in a new line/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Printing only the longest line/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Printing only the longest line/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Printing strings in the same order/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Printing strings in the same order/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Profit/out/production/classes/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Profit/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Profit/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Queens/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Queens/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Reading integer numbers/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Reading integer numbers/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Replacing 'a' with 'b'/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Replacing 'a' with 'b'/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Reversing input numbers/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Reversing input numbers/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Reversing/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Reversing/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Size of parts/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Size of parts/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Size of parts/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Size of parts/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Snail/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Snail/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Squares of natural numbers/out/production/classes/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Squares of natural numbers/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Squares of natural numbers/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Squirrels and nuts/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Squirrels and nuts/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Sum of numbers divisible by 6/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Sum of numbers divisible by 6/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Sum of numbers divisible by 6/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Sum of numbers divisible by 6/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Symmetrical number/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Symmetrical number/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Symmetrical number/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Symmetrical number/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/The army of units/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/The army of units/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/The army of units/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/The count of numbers divisible by N/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/The count of numbers divisible by N/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/The count of numbers divisible by N/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/The count of numbers divisible by N/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/The countdown/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/The countdown/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/The forgotten comments/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/The forgotten comments/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/The largest element of a sequence/out/production/classes/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/The largest element of a sequence/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/The largest element of a sequence/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/The length of the sequence/out/production/classes/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/The length of the sequence/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/The length of the sequence/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/The length of the sequence/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/The number of tens/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/The number of tens/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/The product of numbers from a to b/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/The product of numbers from a to b/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/The product of numbers from a to b/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/The product of numbers from a to b/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/The roots of an equation/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/The roots of an equation/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/The roots of an equation/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/The roots of an equation/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/The sequence/out/production/classes/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/The sequence/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/The sequence/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/The smallest value/out/production/classes/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/The smallest value/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/The smallest value/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/The smallest value/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/The sum of digits/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/The sum of digits/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/The sum of elements/out/production/classes/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/The sum of elements/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/The sum of elements/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/The sum of integers from a to b/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/The sum of integers from a to b/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/The sum of integers from a to b/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Triangle/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Triangle/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Uncomment a line/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Uncomment a line/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/lesson-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (1)/Invalid declaration of variables/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (10)/Incorrect comments - 2/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (10)/Incorrect comments - 2/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (11)/The countdown/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (11)/The countdown/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (12)/Printing only the longest line/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (12)/Printing only the longest line/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (13)/Reading integer numbers/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (13)/Reading integer numbers/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (14)/Printing strings in the same order/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (14)/Printing strings in the same order/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (15)/Printing each word in a new line/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (15)/Printing each word in a new line/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (16)/Reversing input numbers/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (16)/Reversing input numbers/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (17)/Print strings in the reverse order/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (17)/Print strings in the reverse order/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (18)/First digit/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (18)/First digit/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (19)/Reversing/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (19)/Reversing/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (2)/Assignments/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (2)/Assignments/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (21)/Snail/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (21)/Snail/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (22)/Desks/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (22)/Desks/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (23)/Arithmetic expression/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (23)/Arithmetic expression/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (24)/How many nuts each squirrel will get/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (24)/How many nuts each squirrel will get/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (25)/Squirrels and nuts/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (25)/Squirrels and nuts/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (26)/The number of tens/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (26)/The number of tens/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (27)/The sum of digits/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (27)/The sum of digits/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (28)/Difference of times/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (28)/Difference of times/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (29)/Next even number/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (29)/Next even number/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (3)/Fill the declaration/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (3)/Fill the declaration/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (30)/Decrement all/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (30)/Decrement all/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (31)/Replacing 'a' with 'b'/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (31)/Replacing 'a' with 'b'/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (32)/Check prefix ignoring the case/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (32)/Check prefix ignoring the case/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (33)/Comparing strings ignoring whitespaces/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (33)/Comparing strings ignoring whitespaces/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (36)/Check burgs/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (36)/Check burgs/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (37)/Extracting a substring/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (37)/Extracting a substring/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (38)/Check the value/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (38)/Check the value/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (39)/Boys in a sport class/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (39)/Boys in a sport class/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (4)/Assignments/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (4)/Assignments/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (41)/Check the given numbers are different/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (41)/Check the given numbers are different/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (42)/Check the value/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (42)/Check the value/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (44)/Is between/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (44)/Is between/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (45)/Exactly one parameter is positive/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (45)/Exactly one parameter is positive/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (46)/Check the sum/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (46)/Check the sum/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (48)/Groundhogs at a party/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (48)/Groundhogs at a party/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (49)/Healthy sleep/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (49)/Healthy sleep/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (5)/Uncomment a line/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (5)/Uncomment a line/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (50)/The army of units/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (50)/The army of units/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (52)/Chocolate/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (52)/Chocolate/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (55)/Symmetrical number/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (55)/Symmetrical number/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (56)/Check a number is positive/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (56)/Check a number is positive/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (57)/Triangle/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (57)/Triangle/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (58)/Interval/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (58)/Interval/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (6)/Javadoc comment/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (6)/Javadoc comment/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (7)/The forgotten comments/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (7)/The forgotten comments/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (8)/Hello, Java platform/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (8)/Hello, Java platform/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (9)/Incorrect comments/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems (9)/Incorrect comments/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Cats are robots/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Cats are robots/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Cats are robots/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Cats are robots/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Digits from 0 to 9 in a single line/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Digits from 0 to 9 in a single line/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Digits from 0 to 9 in a single line/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Digits from 0 to 9 in a single line/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/First, second, third/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/First, second, third/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/First, second, third/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/First, second, third/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/From 0 to 4/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/From 0 to 4/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/From 0 to 4/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/From 0 to 4/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Hello!/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Hello!/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Hello, Java/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Hello, Java/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Hello, Java/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Hello, Java/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Printing a magic letter/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Printing a magic letter/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Printing a magic letter/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Printing a magic letter/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/The Hello World program/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/The Hello World program/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/The Hello World program/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/The Hello World program/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/The result of a Tic-Tac-Toe game/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/The result of a Tic-Tac-Toe game/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/The result of a Tic-Tac-Toe game/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/The result of a Tic-Tac-Toe game/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/We need to learn Java/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/We need to learn Java/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/We need to learn Java/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/We need to learn Java/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Arithmetic average/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Arithmetic average/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Collatz conjecture/out/production/classes/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Fizz Buzz/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Fizz Buzz/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Good rest on vacation/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Grades/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Grades/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Healthy sleep/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Leap year/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Maximum element divisible by 4/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Maximum element divisible by 4/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Profit/out/production/classes/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Size of parts/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Size of parts/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Squares of natural numbers/out/production/classes/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Sum of numbers divisible by 6/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Sum of numbers divisible by 6/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Symmetrical number/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Symmetrical number/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/The army of units/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/The count of numbers divisible by N/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/The count of numbers divisible by N/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/The largest element of a sequence/out/production/classes/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/The length of the sequence/out/production/classes/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/The length of the sequence/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/The product of numbers from a to b/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/The product of numbers from a to b/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/The roots of an equation/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/The roots of an equation/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/The sequence/out/production/classes/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/The smallest value/out/production/classes/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/The smallest value/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/The sum of elements/out/production/classes/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/The sum of integers from a to b/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/lesson-info.yaml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -335,15 +84,29 @@
       <option name="presentableId" value="Default" />
       <updated>1582367946578</updated>
     </task>
+    <task id="LOCAL-00001" summary="test cmmit">
+      <created>1582903192429</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582903192429</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="test cmmit" />
+    <option name="LAST_COMMIT_MESSAGE" value="test cmmit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="930" y="237" key="Vcs.Push.Dialog.v2" timestamp="1582902903317">
+    <state x="885" y="99" key="CommitChangelistDialog2" timestamp="1582903191931">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="930" y="237" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1582902903317" />
+    <state x="885" y="99" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1582903191931" />
+    <state x="930" y="237" key="Vcs.Push.Dialog.v2" timestamp="1582903231170">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="930" y="237" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1582903231170" />
   </component>
 </project>
