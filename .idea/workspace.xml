@@ -2,47 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e77f787b-3b04-407f-9f62-3d55f5efa303" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Problems/Arithmetic average/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Arithmetic average/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Collatz conjecture/out/production/classes/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Fizz Buzz/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Fizz Buzz/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Good rest on vacation/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Grades/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Grades/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Healthy sleep/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Leap year/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Maximum element divisible by 4/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Maximum element divisible by 4/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Profit/out/production/classes/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Size of parts/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Size of parts/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Squares of natural numbers/out/production/classes/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Sum of numbers divisible by 6/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Sum of numbers divisible by 6/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Symmetrical number/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Symmetrical number/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/The army of units/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/The count of numbers divisible by N/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/The count of numbers divisible by N/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/The largest element of a sequence/out/production/classes/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/The length of the sequence/out/production/classes/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/The length of the sequence/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/The product of numbers from a to b/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/The product of numbers from a to b/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/The roots of an equation/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/The roots of an equation/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/The sequence/out/production/classes/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/The smallest value/out/production/classes/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/The smallest value/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/The sum of elements/out/production/classes/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/The sum of integers from a to b/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/lesson-info.yaml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Bus tour/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Bus tour/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Bus tour/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Even or odd/out/production/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Even or odd/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Even or odd/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Even or odd/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/The (un)-ordered sequence/out/production/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/The (un)-ordered sequence/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/The (un)-ordered sequence/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/The (un)-ordered sequence/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/The integer barrier/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/The integer barrier/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/The integer barrier/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Chatty Bot/task/build/classes/java/main/bot/SimpleBot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Chatty Bot/task/build/classes/java/test/PersonalAssistantTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Chatty Bot/task/build/reports/tests/test/classes/PersonalAssistantTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Chatty Bot/task/build/reports/tests/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Chatty Bot/task/build/reports/tests/test/packages/default-package.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Chatty Bot/task/build/test-results/test/binary/output.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Chatty Bot/task/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Chatty Bot/task/build/test-results/test/binary/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Chatty Bot/task/build/tmp/test/jar_extract_6855421628876751601_tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Chatty Bot/task/src/bot/SimpleBot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Chatty Bot/task/test/PersonalAssistantTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-info.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -91,22 +87,47 @@
       <option name="project" value="LOCAL" />
       <updated>1582903192429</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test 2">
+      <created>1582903792570</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1582903792570</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="test cmmit" />
-    <option name="LAST_COMMIT_MESSAGE" value="test cmmit" />
+    <MESSAGE value="test 2" />
+    <MESSAGE value="break and continue exercises added" />
+    <option name="LAST_COMMIT_MESSAGE" value="break and continue exercises added" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="885" y="99" key="CommitChangelistDialog2" timestamp="1582903191931">
+    <state x="885" y="99" width="806" height="812" key="CommitChangelistDialog2" timestamp="1583174418548">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="885" y="99" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1582903191931" />
-    <state x="930" y="237" key="Vcs.Push.Dialog.v2" timestamp="1582903231170">
+    <state x="885" y="99" width="806" height="812" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1583174418548" />
+    <state x="1050" y="220" key="MultipleFileMergeDialog" timestamp="1582904330773">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="930" y="237" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1582903231170" />
+    <state x="1050" y="220" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582904330773" />
+    <state x="930" y="237" key="Vcs.Push.Dialog.v2" timestamp="1582904355401">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="930" y="237" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1582904355401" />
+    <state x="1100" y="296" key="git4idea.merge.GitMergeDialog" timestamp="1582904104712">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1100" y="296" key="git4idea.merge.GitMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582904104712" />
+    <state x="1030" y="296" key="git4idea.merge.GitPullDialog" timestamp="1582904008230">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1030" y="296" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582904008230" />
+    <state x="1109" y="405" key="git4idea.ui.GitStashDialog" timestamp="1582904078602">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1109" y="405" key="git4idea.ui.GitStashDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582904078602" />
   </component>
 </project>
