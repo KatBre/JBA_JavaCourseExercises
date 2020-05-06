@@ -2,8 +2,12 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="gradle-task_main" target="11" />
+      <module name="gradle-task_test" target="11" />
       <module name="Problems-Adding_values_main" target="11" />
       <module name="Problems-Adding_values_test" target="11" />
+      <module name="Problems-Application_as_a_class_main" target="11" />
+      <module name="Problems-Application_as_a_class_test" target="11" />
       <module name="Problems-Fixing_the_main_method__1__main" target="11" />
       <module name="Problems-Fixing_the_main_method__1__test" target="11" />
       <module name="Problems-Fixing_the_main_method_main" target="11" />
@@ -18,8 +22,44 @@
       <module name="Problems-Print__Hello,_Java!_test" target="11" />
       <module name="Problems-Print__We_are_robots!_main" target="11" />
       <module name="Problems-Print__We_are_robots!_test" target="11" />
+      <module name="Problems-Sorting_numbers_main" target="11" />
+      <module name="Problems-Sorting_numbers_test" target="11" />
       <module name="Simple_Chatty_Bot-task_main" target="11" />
       <module name="Simple_Chatty_Bot-task_test" target="11" />
+      <module name="Simple_Chatty_Bot1.gradle-task.main" target="11" />
+      <module name="Simple_Chatty_Bot1.gradle-task.test" target="11" />
+      <module name="Simple_Chatty_Bot1.Problems-Adding_values.main" target="11" />
+      <module name="Simple_Chatty_Bot1.Problems-Adding_values.test" target="11" />
+      <module name="Simple_Chatty_Bot1.Problems-Advanced_calculator.main" target="11" />
+      <module name="Simple_Chatty_Bot1.Problems-Advanced_calculator.test" target="11" />
+      <module name="Simple_Chatty_Bot1.Problems-Application_as_a_class.main" target="11" />
+      <module name="Simple_Chatty_Bot1.Problems-Application_as_a_class.test" target="11" />
+      <module name="Simple_Chatty_Bot1.Problems-Basic_calculator.main" target="11" />
+      <module name="Simple_Chatty_Bot1.Problems-Basic_calculator.test" target="11" />
+      <module name="Simple_Chatty_Bot1.Problems-Fixing_the_main_method.main" target="11" />
+      <module name="Simple_Chatty_Bot1.Problems-Fixing_the_main_method.test" target="11" />
+      <module name="Simple_Chatty_Bot1.Problems-Fixing_the_main_method__1_.main" target="11" />
+      <module name="Simple_Chatty_Bot1.Problems-Fixing_the_main_method__1_.test" target="11" />
+      <module name="Simple_Chatty_Bot1.Problems-Hiring_a_chef.main" target="11" />
+      <module name="Simple_Chatty_Bot1.Problems-Hiring_a_chef.test" target="11" />
+      <module name="Simple_Chatty_Bot1.Problems-Inverse_boolean_flags.main" target="11" />
+      <module name="Simple_Chatty_Bot1.Problems-Inverse_boolean_flags.test" target="11" />
+      <module name="Simple_Chatty_Bot1.Problems-Parameters_and_their_values.main" target="11" />
+      <module name="Simple_Chatty_Bot1.Problems-Parameters_and_their_values.test" target="11" />
+      <module name="Simple_Chatty_Bot1.Problems-Parse_url.main" target="11" />
+      <module name="Simple_Chatty_Bot1.Problems-Parse_url.test" target="11" />
+      <module name="Simple_Chatty_Bot1.Problems-Print__Hello,_Java!.main" target="11" />
+      <module name="Simple_Chatty_Bot1.Problems-Print__Hello,_Java!.test" target="11" />
+      <module name="Simple_Chatty_Bot1.Problems-Print__We_are_robots!.main" target="11" />
+      <module name="Simple_Chatty_Bot1.Problems-Print__We_are_robots!.test" target="11" />
+      <module name="Simple_Chatty_Bot1.Problems-Sorting_numbers.main" target="11" />
+      <module name="Simple_Chatty_Bot1.Problems-Sorting_numbers.test" target="11" />
+      <module name="Simple_Chatty_Bot1.Problems-The_index_of_an_argument.main" target="11" />
+      <module name="Simple_Chatty_Bot1.Problems-The_index_of_an_argument.test" target="11" />
+      <module name="Simple_Chatty_Bot1.Simple_Chatty_Bot-task.main" target="11" />
+      <module name="Simple_Chatty_Bot1.Simple_Chatty_Bot-task.test" target="11" />
+      <module name="Simple_Chatty_Bot1.util.main" target="11" />
+      <module name="Simple_Chatty_Bot1.util.test" target="11" />
       <module name="util_main" target="11" />
       <module name="util_test" target="11" />
     </bytecodeTargetLevel>

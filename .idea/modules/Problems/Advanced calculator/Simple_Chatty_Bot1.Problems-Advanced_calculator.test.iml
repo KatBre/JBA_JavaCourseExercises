@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module external.linked.project.id=":Problems-Inverse_boolean_flags:test" external.linked.project.path="$MODULE_DIR$/../../../../Problems/Inverse boolean flags" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="Simple_Chatty_Bot1" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+<module external.linked.project.id=":Problems-Advanced_calculator:test" external.linked.project.path="$MODULE_DIR$/../../../../Problems/Advanced calculator" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="Simple_Chatty_Bot1" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_11">
-    <output-test url="file://$MODULE_DIR$/../../../../Problems/Inverse boolean flags/out/test/classes" />
+    <output-test url="file://$MODULE_DIR$/../../../../Problems/Advanced calculator/out/test/classes" />
     <exclude-output />
-    <content url="file://$MODULE_DIR$/../../../../Problems/Inverse boolean flags/src/test" />
-    <content url="file://$MODULE_DIR$/../../../../Problems/Inverse boolean flags/test" />
+    <content url="file://$MODULE_DIR$/../../../../Problems/Advanced calculator/src/test" />
+    <content url="file://$MODULE_DIR$/../../../../Problems/Advanced calculator/test" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="Problems-Inverse_boolean_flags_main" />
+    <orderEntry type="module" module-name="Simple_Chatty_Bot1.Problems-Advanced_calculator.main" />
     <orderEntry type="library" name="Gradle: com.github.hyperskill:hs-test:v6.0.1" level="project" />
     <orderEntry type="library" name="Gradle: com.github.stefanbirkner:system-rules:1.19.0" level="project" />
     <orderEntry type="library" name="Gradle: org.assertj:assertj-swing-junit:3.8.0" level="project" />
@@ -27,5 +27,5 @@
     <orderEntry type="library" name="Gradle: org.assertj:assertj-core:3.8.0" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Gradle: org.easytesting:fest-util:1.2.5" level="project" />
   </component>
-  <component name="TestModuleProperties" production-module="Problems-Inverse_boolean_flags_main" />
+  <component name="TestModuleProperties" production-module="Simple_Chatty_Bot1.Problems-Advanced_calculator.main" />
 </module>

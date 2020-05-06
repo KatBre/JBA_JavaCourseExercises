@@ -7,7 +7,7 @@
     <content url="file://$MODULE_DIR$/../../../../Problems/Parse url/test" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="Problems-Parse_url_main" />
+    <orderEntry type="module" module-name="Simple_Chatty_Bot1.Problems-Parse_url.main" />
     <orderEntry type="library" name="Gradle: com.github.hyperskill:hs-test:v6.0.1" level="project" />
     <orderEntry type="library" name="Gradle: com.github.stefanbirkner:system-rules:1.19.0" level="project" />
     <orderEntry type="library" name="Gradle: org.assertj:assertj-swing-junit:3.8.0" level="project" />
@@ -27,5 +27,5 @@
     <orderEntry type="library" name="Gradle: org.assertj:assertj-core:3.8.0" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Gradle: org.easytesting:fest-util:1.2.5" level="project" />
   </component>
-  <component name="TestModuleProperties" production-module="Problems-Parse_url_main" />
+  <component name="TestModuleProperties" production-module="Simple_Chatty_Bot1.Problems-Parse_url.main" />
 </module>

@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module external.linked.project.id=":Problems-Adding_values:test" external.linked.project.path="$MODULE_DIR$/../../../../Problems/Adding values" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="Simple_Chatty_Bot1" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+<module external.linked.project.id=":gradle-task:test" external.linked.project.path="$MODULE_DIR$/../../../../gradle/task" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="Simple_Chatty_Bot1" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_11">
-    <output-test url="file://$MODULE_DIR$/../../../../Problems/Adding values/out/test/classes" />
+    <output-test url="file://$MODULE_DIR$/../../../../gradle/task/out/test/classes" />
     <exclude-output />
-    <content url="file://$MODULE_DIR$/../../../../Problems/Adding values/src/test" />
-    <content url="file://$MODULE_DIR$/../../../../Problems/Adding values/test" />
+    <content url="file://$MODULE_DIR$/../../../../gradle/task/src/test" />
+    <content url="file://$MODULE_DIR$/../../../../gradle/task/test">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../gradle/task/test" isTestSource="true" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="Problems-Adding_values_main" />
+    <orderEntry type="module" module-name="Simple_Chatty_Bot1.gradle-task.main" />
     <orderEntry type="library" name="Gradle: com.github.hyperskill:hs-test:v6.0.1" level="project" />
     <orderEntry type="library" name="Gradle: com.github.stefanbirkner:system-rules:1.19.0" level="project" />
     <orderEntry type="library" name="Gradle: org.assertj:assertj-swing-junit:3.8.0" level="project" />
@@ -27,5 +29,5 @@
     <orderEntry type="library" name="Gradle: org.assertj:assertj-core:3.8.0" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Gradle: org.easytesting:fest-util:1.2.5" level="project" />
   </component>
-  <component name="TestModuleProperties" production-module="Problems-Adding_values_main" />
+  <component name="TestModuleProperties" production-module="Simple_Chatty_Bot1.gradle-task.main" />
 </module>
