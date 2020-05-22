@@ -7,11 +7,10 @@ class Main {
         int a = scanner.nextInt();
         int[] array = new int[a];
         boolean ascending = true;
-        for (int i = 1; i < array.length; i++) {
+        for (int i = 1; i < array.length - 1; i++) {
             array[i] = scanner.nextInt();
-            if (array[i - 1] > array[i]) {
+            if (array[i] < array[i - 1]) {
                 ascending = false;
-                break;
             }
         }
         System.out.println(ascending);
