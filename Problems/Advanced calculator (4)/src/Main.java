@@ -1,3 +1,4 @@
+// Posted from EduTools plugin
 /* Please, do not rename it */
 class Problem {
 
@@ -19,7 +20,7 @@ class Problem {
             }
             System.out.println(result);
         } else if ("SUM".equals(operator)) {
-            for (int i = 1; i < args.length; i++) {
+            for (int i = 2; i < args.length; i++) {
                 result += Integer.parseInt(args[i]);
             }
             System.out.println(result);

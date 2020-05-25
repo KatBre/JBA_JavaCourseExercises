@@ -1,4 +1,3 @@
-// Posted from EduTools plugin
 import java.util.Scanner;
 
 class Main {
@@ -9,12 +8,12 @@ class Main {
         for (int i = 0; i < array.length; i++) {
             array[i] = scanner.nextInt();
         }
-        int result = 0;
-        int temporary;
+        int n = scanner.nextInt();
+        int m = scanner.nextInt();
+        boolean result = false;
         for (int i = 0; i < array.length - 1; i++) {
-            temporary = array[i] * array[i + 1];
-            if (temporary >= result) {
-                result = temporary;
+            if (array[i] == n && array[i + 1] == m || array[i] == m && array[i + 1] == n) {
+                result = true;
             }
         }
         System.out.println(result);

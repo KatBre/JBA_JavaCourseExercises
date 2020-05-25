@@ -1,3 +1,4 @@
+// Posted from EduTools plugin
 import java.util.Scanner;
 
 class Main {
@@ -8,9 +9,9 @@ class Main {
         for (int i = 0; i < array.length; i++) {
             array[i] = scanner.nextInt();
         }
-        int max = array[0];
+        int max = 0;
         int result = 0;
-        for (int i = 0; i < array.length - 1; i++) {
+        for (int i = 0; i < array.length; i++) {
             if (array[i] > max) {
                 max = array[i];
                 result = i;
